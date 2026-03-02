@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 About Me  
+- Building Backend APIs
 - Building production-grade **LLM-powered backend systems**
 - Focused on **RAG pipelines, agentic workflows, and scalable APIs**
 - Interested in AI infrastructure
@@ -92,7 +93,7 @@
 
 - Advanced RAG Architectures  
 - Multi-Agent Systems  
-- Backend Optimization for AI Applications  
+- Backend Development and Optimization  
 - Scalable AI Infrastructure  
 
 ---
