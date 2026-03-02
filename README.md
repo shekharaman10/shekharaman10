@@ -15,8 +15,7 @@
 ## 🚀 About Me  
 - Building production-grade **LLM-powered backend systems**
 - Focused on **RAG pipelines, agentic workflows, and scalable APIs**
-- Interested in AI infrastructure, not just UI wrappers
-
+- Interested in AI infrastructure
 ---
 
 # 🛠 Skills & Tools
