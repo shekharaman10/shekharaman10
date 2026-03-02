@@ -1,5 +1,5 @@
 <h1 align="center">Aman Shekhar</h1>
-<h3 align="center">AI Systems Engineer | Backend Developer | EEE @ MIT Manipal</h3>
+<h3 align="center">AI Systems Engineer | Backend Developer |</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-shekhar-ba07a11b7/">
@@ -12,9 +12,7 @@
 
 ---
 
-## 🚀 About Me
-
-- B.Tech in Electrical & Electronics Engineering (2022–2026)  
+## 🚀 About Me  
 - Building production-grade **LLM-powered backend systems**
 - Focused on **RAG pipelines, agentic workflows, and scalable APIs**
 - Interested in AI infrastructure, not just UI wrappers
@@ -89,22 +87,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
----
 
-# 🏆 Achievements
-
-- 🥇 Top 15 — Flipkart GRiD 6.0 Robotics Challenge  
-- 🌍 4th Place — IROS 2024 Global Robotics Challenge  
-- 🇮🇳 National-Level Nominee — Kavach Hackathon  
-- 👥 Team Lead — NSS Manipal (STEM Outreach & Operations)
-
----
-
-# 📜 Certification
-
-- IBM AI Engineering Professional Certificate — Coursera
-
----
 
 # 📌 Current Focus
 
