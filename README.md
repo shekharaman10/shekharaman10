@@ -115,6 +115,3 @@
 
 ---
 
-<p align="center">
-  <i>Building systems that scale. Not projects that just run.</i>
-</p>
