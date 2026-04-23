@@ -1,5 +1,5 @@
 <h1 align="center">Aman Shekhar</h1>
-<h3 align="center">AI Systems Engineer </h3>
+<h3 align="center">AI/ML Engineer with Backend Specialization </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-shekhar-ba07a11b7/">
