@@ -1,7 +1,7 @@
 <h1 align="center">Aman Shekhar</h1>
 
 <h3 align="center">
-AI Software Engineer • Machine Learning Engineer • Backend Systems
+AI Software Engineer • Machine Learning Engineer • Backend & AI Systems
 </h3>
 
 <p align="center">
@@ -22,18 +22,25 @@ Building production-grade AI systems, scalable backend services, and machine lea
 
 # About Me
 
-I am an AI Software Engineer focused on building production-ready machine learning systems and scalable backend services.
+I am an **AI Software Engineer** focused on building production-ready machine learning systems, AI applications, and scalable backend services.
 
-My interests lie at the intersection of
+My work sits at the intersection of **Artificial Intelligence, Machine Learning, Backend Engineering, and AI Infrastructure**, with a growing focus on **Healthcare AI and interoperable health-data systems**.
 
-- Machine Learning
-- Large Language Models
-- Backend Engineering
-- AI Infrastructure
-- Distributed AI Systems
-- Healthcare AI
+I am particularly interested in understanding and building systems across the full AI stack — from data ingestion and retrieval to model inference, APIs, orchestration, and production deployment.
 
-Currently exploring production AI architecture including RAG, agent systems, model serving, retrieval systems, and scalable API development.
+### Areas of Interest
+
+* Machine Learning & Deep Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Workflow Orchestration
+* Backend & API Engineering
+* Machine Learning Systems
+* AI Infrastructure & Model Serving
+* Distributed AI Systems
+* Healthcare AI
+* Healthcare Data Interoperability
+* HL7 FHIR
 
 ---
 
@@ -84,13 +91,25 @@ Currently exploring production AI architecture including RAG, agent systems, mod
 <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agent%20Workflows-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-critical?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-success?style=for-the-badge"/>
 </p>
 
 ---
 
-## Databases
+## Healthcare & Interoperability
+
+<p>
+<img src="https://img.shields.io/badge/HL7%20FHIR-E6A817?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FHIR%20R4-E6A817?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare%20APIs-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Health%20Data%20Interoperability-1565C0?style=for-the-badge"/>
+</p>
+
+---
+
+## Databases & Retrieval
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
@@ -105,7 +124,7 @@ Currently exploring production AI architecture including RAG, agent systems, mod
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/TesseractOCR-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tesseract%20OCR-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
@@ -113,23 +132,81 @@ Currently exploring production AI architecture including RAG, agent systems, mod
 ## Cloud & Developer Tools
 
 <p>
-<img src="https://img.shields.io/badge/AWS-S3%20|%20EC2%20|%20Lambda-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# Current Focus
+# Engineering Interests
 
-- Production AI Systems
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Workflow Orchestration
-- Backend Architecture
-- Machine Learning Systems
-- AI Infrastructure
-- Distributed AI Applications
+### AI & Machine Learning
+
+Building intelligent systems around:
+
+* Large Language Models
+* Retrieval-Augmented Generation
+* Semantic Search
+* Embedding Models
+* NLP & Computer Vision
+* AI Agents
+* Tool Calling & Function Calling
+* Model Inference & Serving
+
+### Backend & Systems
+
+Interested in building reliable production systems involving:
+
+* RESTful APIs
+* Distributed services
+* Data pipelines
+* Model-serving infrastructure
+* Database and retrieval systems
+* Scalable backend architectures
+* Cloud-native AI applications
+
+### Healthcare AI
+
+Exploring the intersection of AI and healthcare data through:
+
+* HL7 FHIR
+* Healthcare APIs
+* Health-data interoperability
+* OAuth 2.0 authorization
+* Structured clinical and wellness data
+* AI systems over healthcare data
 
 ---
 
+# Current Focus
 
+* Production AI Systems
+* Retrieval-Augmented Generation (RAG)
+* LLM Applications
+* AI Agents & Workflow Orchestration
+* Backend Architecture
+* Machine Learning Systems
+* Model Serving & Inference
+* AI Infrastructure
+* Distributed AI Applications
+* Healthcare AI & HL7 FHIR
+* Healthcare Data Interoperability
+
+---
+
+# What I Build
+
+I am interested in building systems where **machine learning is integrated with real software infrastructure**, rather than treating ML as an isolated model.
+
+This includes applications that combine:
+
+**Data → Retrieval → Models → Agents → APIs → Infrastructure → Production**
+
+with an emphasis on reliability, scalability, observability, and practical engineering.
+
+---
+
+<p align="center">
+<b>AI • Machine Learning • Backend Systems • AI Infrastructure • Healthcare Interoperability</b>
+</p>
