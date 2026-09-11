@@ -1,11 +1,11 @@
 <h1 align="center">Aman Shekhar</h1>
 
 <p align="center">
-AI Software Engineer · Machine Learning · Backend Engineering
+AI Software Engineer · Healthcare AI · ML Systems · GPU Computing
 </p>
 
 <p align="center">
-I build AI and ML applications, backend services, and systems that connect models with real-world data.
+AI · Machine Learning · Backend Systems · Healthcare Data · ML Infrastructure · GPU Systems
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@ I build AI and ML applications, backend services, and systems that connect model
 
 ---
 
-## About Me
+## Focus
 
-I'm an AI Software Engineer interested in the engineering side of machine learning — how models are connected to data, APIs, backend systems, and eventually turned into applications that people can actually use.
+**Current**
 
-Most of my work revolves around **Python, machine learning, LLMs, backend development, and data systems**.
+Healthcare AI · Healthcare Data · HL7 FHIR · Healthcare APIs · OAuth 2.0 · AI Applications · Backend Engineering
 
-I'm currently spending a lot of time learning and building around **RAG, LLM applications, AI agents, model serving, retrieval systems, and healthcare data**.
+**Future**
 
-I'm also exploring the systems side of AI, including **AI infrastructure, distributed systems, and the way large-scale ML systems are built and served**.
+GPU Computing · ML Systems · AI Infrastructure · Distributed Systems · Model Serving · Inference Systems · GPU Programming · GPU Compilers · Accelerated Computing
 
 ---
 
-## What I Work With
+## Core Stack
 
 ### Languages
 
@@ -54,7 +54,7 @@ I'm also exploring the systems side of AI, including **AI infrastructure, distri
 <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge"/>
 </p>
 
-### LLMs & AI Applications
+### LLM & Retrieval Systems
 
 <p>
 <img src="https://img.shields.io/badge/RAG-Informational?style=for-the-badge"/>
@@ -64,17 +64,9 @@ I'm also exploring the systems side of AI, including **AI infrastructure, distri
 <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
 </p>
 
-I work with LLM-based systems involving:
+RAG · Semantic Search · Embeddings · Vector Search · Tool Calling · AI Agents · LLM Inference · Prompt Engineering
 
-* Retrieval-Augmented Generation
-* Semantic search
-* Embeddings
-* Tool/function calling
-* AI agents
-* Prompt engineering
-* Local and hosted model inference
-
-### Backend
+### Backend & APIs
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
@@ -83,9 +75,17 @@ I work with LLM-based systems involving:
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
 </p>
 
-I'm interested in the part of AI development that often gets overlooked — **everything around the model**.
+API Design · Authentication · OAuth 2.0 · Service Architecture · Data Pipelines · Backend Systems
 
-That means APIs, authentication, data flow, databases, service architecture, and making different components work together reliably.
+### Healthcare & Interoperability
+
+<p>
+<img src="https://img.shields.io/badge/HL7%20FHIR-E6A817?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare%20APIs-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-3F51B5?style=for-the-badge"/>
+</p>
+
+HL7 FHIR · Healthcare Data · Health APIs · Interoperability · OAuth · Health Data Integration · Clinical Data Systems
 
 ### Databases & Search
 
@@ -95,19 +95,9 @@ That means APIs, authentication, data flow, databases, service architecture, and
 <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge"/>
 </p>
 
-### Healthcare & FHIR
+PostgreSQL · Vector Databases · FAISS · ChromaDB · Semantic Retrieval
 
-<p>
-<img src="https://img.shields.io/badge/HL7%20FHIR-E6A817?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare%20APIs-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAuth%202.0-3F51B5?style=for-the-badge"/>
-</p>
-
-I'm exploring healthcare interoperability and APIs, particularly how standards such as **HL7 FHIR** can be used to represent and exchange health information and how AI applications can work with this data.
-
----
-
-## Data & Tools
+### Data & Engineering Tools
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -125,33 +115,58 @@ I'm exploring healthcare interoperability and APIs, particularly how standards s
 
 ---
 
-## Currently Learning
+## AI Systems
 
-I'm currently going deeper into:
-
-* LLM system architecture
-* RAG and retrieval systems
-* AI agents and workflow orchestration
-* Model serving and inference
-* Backend system design
-* Distributed systems
-* AI infrastructure
-* GPU computing and ML systems
-* Healthcare data and FHIR
+LLM Applications · RAG · Retrieval Pipelines · Semantic Search · Embedding Systems · Agentic Workflows · Tool Calling · Model Inference · Model Serving
 
 ---
 
-## A Few Things I'm Interested In
+## Healthcare AI
 
-I'm particularly interested in the question of **what happens beyond the model**.
+HL7 FHIR · Healthcare Interoperability · Healthcare APIs · Health Data Integration · OAuth 2.0 · AI over Healthcare Data · Clinical Data Pipelines · Healthcare Applications
 
-How do you serve a model efficiently?
+---
 
-How do you build retrieval systems that actually work?
+## ML Systems & GPU
 
-How does an LLM interact with external tools and APIs?
+GPU Computing · CUDA · C++ · PyTorch Internals · GPU Programming · Parallel Computing · ML Systems · Distributed Training · Distributed Inference · Model Serving · Inference Optimization · AI Infrastructure · GPU Architecture · GPU Compilers · Compiler Optimization · Accelerated Computing
 
-How do you move from a notebook or prototype to a reliable backend service?
+---
+
+## Systems Interests
+
+GPU Architecture · CUDA Programming · Parallel Algorithms · Compiler Design · ML Compilers · Distributed Systems · High-Performance Computing · Inference Systems · Training Infrastructure · Memory Systems · Kernel Optimization · AI Accelerators · Heterogeneous Computing
+
+---
+
+## Currently Exploring
+
+Healthcare AI · HL7 FHIR · LLM Systems · RAG · AI Agents · Model Serving · ML Infrastructure · Distributed Systems · GPU Computing · CUDA · ML Compilers · AI Systems
+
+---
+
+## Areas of Interest
+
+**Healthcare**
+
+FHIR · Interoperability · Healthcare APIs · Clinical Data · Healthcare AI
+
+**AI**
+
+LLMs · RAG · Agents · Retrieval · Embeddings · Inference
+
+**Systems**
+
+Distributed Systems · Model Serving · ML Infrastructure · High-Performance Computing
+
+**GPU**
+
+CUDA · GPU Programming · Parallel Computing · GPU Architecture · ML Compilers · Kernel Optimization · Accelerated Computing
+
+**Languages**
+
+Python · C++ · SQL · JavaScript · MATLAB
+
 
 And at a lower level, how do GPUs, compilers, distributed systems, and infrastructure make modern AI possible?
 
