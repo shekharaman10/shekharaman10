@@ -127,12 +127,6 @@ HL7 FHIR · Healthcare Interoperability · Healthcare APIs · Health Data Integr
 
 ---
 
-## ML Systems & GPU
-
-GPU Computing · CUDA · C++ · PyTorch Internals · GPU Programming · Parallel Computing · ML Systems · Distributed Training · Distributed Inference · Model Serving · Inference Optimization · AI Infrastructure · GPU Architecture · GPU Compilers · Compiler Optimization · Accelerated Computing
-
----
-
 ## Systems Interests
 
 GPU Architecture · CUDA Programming · Parallel Algorithms · Compiler Design · ML Compilers · Distributed Systems · High-Performance Computing · Inference Systems · Training Infrastructure · Memory Systems · Kernel Optimization · AI Accelerators · Heterogeneous Computing
@@ -170,7 +164,7 @@ Python · C++ · SQL · JavaScript · MATLAB
 
 And at a lower level, how do GPUs, compilers, distributed systems, and infrastructure make modern AI possible?
 
-That's the direction I'm trying to explore through my projects and continuous learning.
+That's the direction I'm trying to explore through continuous learning.
 
 ---
 
