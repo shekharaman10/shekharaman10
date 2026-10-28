@@ -1,8 +1,7 @@
 # Aman Shekhar
 
-AI Software Engineer · Healthcare AI · ML Systems · GPU Computing
-
-AI · Backend Engineering · Healthcare Data · AI Infrastructure
+AI Software Engineer · Healthcare AI · ML Systems 
+AI · Backend Engineering · Healthcare Data · 
 
 ## Focus
 
